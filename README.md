@@ -98,7 +98,6 @@ caught-in-class/
 ├── attendance_final_file.xlsx # Output file with attendance data
 ├── yolov8n.pt # YOLOv8 pre-trained model weights
 ├── images atendance.xlsx # Image-to-name mapping (optional depending on implementation)
-├── requirements.txt # Requirements file
 └── requirements.txt           # Required Python libraries
 ```
 
